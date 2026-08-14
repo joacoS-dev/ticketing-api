@@ -43,7 +43,7 @@ JWT_SECRET=FaMjyYPMlNpCneCrRl+CZkyEclq+YQPgWI0dP2CCDwM=
  
  2. Abrí el proyecto en tu IDE.
  3. Ubicá la clase principal "Application.java".
- 4. Ejecutá la clase haciendo click en el boon Run del IDE.
+ 4. Ejecutá la clase haciendo click en el botón Run del IDE.
  
 ## Acceso a la aplicación
  
